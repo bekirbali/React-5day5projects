@@ -6,6 +6,30 @@ const Home = () => {
   return (
     <div className={styles.home}>
       <Landing />
+      <div>
+        <h2>Our Services</h2>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus
+          suscipit, eros in varius congue, sapien arcu dictum elit, nec
+          sollicitudin nunc odio nec nunc. Nullam vitae dui ac nunc lacinia
+          aliquam. Nullam nec orci nec nunc tincidunt suscipit. Vivamus
+          suscipit, eros in varius congue, sapien arcu dictum elit, nec
+          sollicitudin nunc odio nec nunc. Nullam vitae dui ac nunc lacinia
+          aliquam. Nullam nec orci nec nunc tincidunt suscipit.
+        </p>
+      </div>
+      <div>
+        <h2>Our Fleet</h2>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus
+          suscipit, eros in varius congue, sapien arcu dictum elit, nec
+          sollicitudin nunc odio nec nunc. Nullam vitae dui ac nunc lacinia
+          aliquam. Nullam nec orci nec nunc tincidunt suscipit. Vivamus
+          suscipit, eros in varius congue, sapien arcu dictum elit, nec
+          sollicitudin nunc odio nec nunc. Nullam vitae dui ac nunc lacinia
+          aliquam. Nullam nec orci nec nunc tincidunt suscipit.
+        </p>
+      </div>
     </div>
   );
 };
